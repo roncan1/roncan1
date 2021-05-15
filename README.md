@@ -1,6 +1,6 @@
 ![title](./image/title_1.png)
 <br>
-![github-stats](https://github-readme-stats.vercel.app/api?username=roncan1&count_private=true&theme=algolia)
+![github-stats](https://github-readme-stats.vercel.app/api?username=roncan1&count_private=true&theme=react&show_icons=true)
 <br><br><br>
 ------------------
 <center>
