@@ -1,8 +1,12 @@
 ![title](./image/title_1.png)
 <br>
-![github-stats](https://github-readme-stats.vercel.app/api?username=roncan1&count_private=true&theme=react&show_icons=true)
-<br><br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roncan1&count_private=true&theme=react&show_icons=true" alt="github-stats"/>
+</p> 
+
 ------------------
+
 <center>
 <div align="center" style="text-align:center" >
 	<a href="https://cjmpm.tistory.com/category">
