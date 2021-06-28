@@ -10,16 +10,16 @@
 
 <center>
 <div align="center" style="text-align:center" >
-	<a href="https://cjmpm.tistory.com/category">
+	<a href="https://cjmpm.tistory.com/category" style="margin:15px auto">
 		<img src="https://github.com/roncan1/roncan1/blob/main/image/tistory.png" width="64" height="64">
 	</a>
-	<a href="https://sites.google.com/view/yeoulcom">
+	<a href="https://sites.google.com/view/yeoulcom" style="margin:15px auto">
 		<img src="https://github.com/roncan1/roncan1/blob/main/image/yeoulcom.png" width="64" height="64">
 	</a>
-	<a href="https://www.facebook.com/profile.php?id=100013357301532">
+	<a href="https://www.facebook.com/profile.php?id=100013357301532" style="margin:15px auto">
 		<img src="https://github.com/roncan1/roncan1/blob/main/image/facebook.png" width="64" height="64">
 	</a>
-	<a href="https://github.com/roncan1">
+	<a href="https://github.com/roncan1" style="margin:15px auto">
 		<img src="https://raw.githubusercontent.com/junhoyeo/junhoyeo/master/icons/github.png" width="64" height="64">
 	</a>
 </div>
